@@ -1,6 +1,14 @@
-# Lenovo Tiny Cluster
+# Dirac
 
-This system is built with OpenHPC 3, Rocky 4, Rocky 9, and SLURM. 
+> The Lenovo Tiny Cluster
+
+## Information
+
+Originally designed for the [Governor's School of Emerging Technologies](https://www.tntech.edu/education/stem/gset.php)
+in 2025, the Dirac cluster is our premier way of showcasing HPC architecture. It includes
+some custom peices of software dedicated to visualizing parallel programs such as the
+[SPH Particle Simulation](https://github.com/TNTech-RCD/SPH) program.
+This system is built with OpenHPC 3, Rocky 4, Rocky 9, and SLURM.
 
 ## Node Setup
 
