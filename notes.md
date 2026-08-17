@@ -1,0 +1,4 @@
+- Hit F12 on Lenovo to get a menu allowing USB boot
+- Don't forget to install NetworkManager-wifi and systemctl restart NetworkManager if you do a minimal install. Will need a temporary wired connection to do that.
+- `sudo dnf -y install bind-utils` to get a copy of `nslookup`.
+- `sudo dnf -y install git` to get a copy of `git`.
